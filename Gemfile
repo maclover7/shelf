@@ -10,6 +10,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+# Shelf Dependencies
+gem 'devise'
+
 # Environment Dependencies
 group :development, :test do
   gem 'byebug'
